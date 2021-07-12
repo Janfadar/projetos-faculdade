@@ -1,7 +1,3 @@
-# Programação Orientada a Objetos
-# AC03 - Herança e polimorfismo
-#
-# Email Impacta: fernando.macedo@aluno.faculdadeimpacta.com.br
 
 import re
 

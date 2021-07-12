@@ -1,7 +1,3 @@
-# Programação Orientada a Objetos
-# AC02 ADS-EaD - Criando classes
-#
-# Email Impacta: fernando.macedo@aluno.faculdadeimpacta.com.br
 
 
 class Cliente:
